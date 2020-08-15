@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "site",
+  "name": "nyoooo",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -18,5 +18,8 @@
     "netlify-cms-proxy-server": "^1.1.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:nyoooo/nyoooo.git",
+  "author": "nyoooo"
 }
